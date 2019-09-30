@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Settings](https://maliha-balala.github.io/hello-world/Figure1 Settings.jpg)
